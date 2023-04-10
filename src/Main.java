@@ -28,5 +28,6 @@ public class Main
         Report.generateReport(employees, new Locale("ru", "RU"));
 
         System.out.println("GIT 1");
+        System.out.println("PR 1");
     }
 }
