@@ -26,5 +26,7 @@ public class Main
         };
         Report.generateReport(employees, new Locale("en", "US"));
         Report.generateReport(employees, new Locale("ru", "RU"));
+
+        System.out.println("GIT 1");
     }
 }
